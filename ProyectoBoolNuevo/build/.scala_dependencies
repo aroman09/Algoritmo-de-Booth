@@ -1,0 +1,21 @@
+C:\Program Files (x86)\scala\lib\akka-actors.jar;C:\Program Files (x86)\scala\lib\jline.jar;C:\Program Files (x86)\scala\lib\scala-actors-migration.jar;C:\Program Files (x86)\scala\lib\scala-actors.jar;C:\Program Files (x86)\scala\lib\scala-compiler.jar;C:\Program Files (x86)\scala\lib\scala-library.jar;C:\Program Files (x86)\scala\lib\scala-reflect.jar;C:\Program Files (x86)\scala\lib\scala-swing.jar;C:\Program Files (x86)\scala\lib\scalap.jar;C:\Program Files (x86)\scala\lib\typesafe-config.jar;C:\Users\AIRApc\Documents\NetBeansProjects\ProyectoBoolNuevo\build\classes
+-------
+..\src\proyectoboolnuevo\Algoritmo.scala -> ..\src\proyectoboolnuevo\Algoritmo.scala
+..\src\proyectoboolnuevo\Algoritmo.scala -> ..\src\proyectoboolnuevo\Convertir.scala
+..\src\proyectoboolnuevo\Convertir.scala -> ..\src\proyectoboolnuevo\Convertir.scala
+..\src\proyectoboolnuevo\maiin.scala -> ..\src\GUI\Principal.java
+..\src\proyectoboolnuevo\maiin.scala -> ..\src\proyectoboolnuevo\maiin.scala
+-------
+..\src\proyectoboolnuevo\Algoritmo.scala -> classes\proyectoboolnuevo\Algoritmo$$anonfun$rellenarP$1.class
+..\src\proyectoboolnuevo\Algoritmo.scala -> classes\proyectoboolnuevo\Algoritmo.class
+..\src\proyectoboolnuevo\Algoritmo.scala -> classes\proyectoboolnuevo\Algoritmo$$anonfun$potencia$1.class
+..\src\proyectoboolnuevo\Algoritmo.scala -> classes\proyectoboolnuevo\Algoritmo$$anonfun$rellenarBitsFinal$1.class
+..\src\proyectoboolnuevo\Algoritmo.scala -> classes\proyectoboolnuevo\Algoritmo$$anonfun$rellenarbitsIniciales$1.class
+..\src\proyectoboolnuevo\Algoritmo.scala -> classes\proyectoboolnuevo\Algoritmo$$anonfun$rellenarBitsInicio$1.class
+..\src\proyectoboolnuevo\Convertir.scala -> classes\proyectoboolnuevo\Convertir$$anonfun$pasarAbinario$1.class
+..\src\proyectoboolnuevo\Convertir.scala -> classes\proyectoboolnuevo\Convertir$$anonfun$completarBits$1.class
+..\src\proyectoboolnuevo\Convertir.scala -> classes\proyectoboolnuevo\Convertir.class
+..\src\proyectoboolnuevo\Convertir.scala -> classes\proyectoboolnuevo\Convertir$$anonfun$completarBits$2.class
+..\src\proyectoboolnuevo\Convertir.scala -> classes\proyectoboolnuevo\Convertir$$anonfun$complementoA1$1.class
+..\src\proyectoboolnuevo\maiin.scala -> classes\proyectoboolnuevo\maiin$.class
+..\src\proyectoboolnuevo\maiin.scala -> classes\proyectoboolnuevo\maiin.class
